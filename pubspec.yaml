@@ -1,8 +1,8 @@
 name: voice_note_chat_bar
 description: A customizable chat composer with hold-to-record voice notes, text send, and optional attachment.
 version: 0.1.2
-homepage: https://github.com/example/voice_note_chat_bar
-repository: https://github.com/example/voice_note_chat_bar
+homepage: https://github.com/ZainMughal329/voice_note_chat_bar.git
+repository: https://github.com/ZainMughal329/voice_note_chat_bar.git
 
 environment:
   sdk: ^3.10.0
