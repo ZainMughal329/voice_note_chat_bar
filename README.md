@@ -13,13 +13,19 @@ A Flutter chat composer with **text send**, optional **attachment**, and **hold-
 
 ## Demo
 
-![VoiceNoteChatBar demo](https://github.com/ZainMughal329/voice_note_chat_bar/main/doc/demo.gif)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ZainMughal329/voice_note_chat_bar/main/demo/demo.gif"
+    alt="VoiceNoteChatBar demo — text send, hold-to-record, slide to cancel"
+    width="320"
+  />
+</p>
 
 ## Installation
 
 ```yaml
 dependencies:
-  voice_note_chat_bar: ^0.1.0
+  voice_note_chat_bar: ^0.1.6
 ```
 
 ### Android

@@ -1,3 +1,15 @@
+## 0.1.6
+
+- README demo GIF uses raw GitHub URL with constrained width (320px) so pub.dev does not show an oversized image.
+
+## 0.1.5
+
+- Fixed Demo Gif in the Readme File.
+
+## 0.1.4
+
+- Fixed Demo Gif in the Readme File.
+
 ## 0.1.3
 
 - Added Demo Gif in the Readme File.
