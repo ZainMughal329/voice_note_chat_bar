@@ -11,6 +11,10 @@ A Flutter chat composer with **text send**, optional **attachment**, and **hold-
 - `VoiceNoteChatBarTheme` Material 3 defaults + builders for mic, waveform, and recording bar
 - Temp audio file deleted after `onVoiceNote` completes
 
+## Demo
+
+![VoiceNoteChatBar demo](https://github.com/ZainMughal329/voice_note_chat_bar/main/doc/demo.gif)
+
 ## Installation
 
 ```yaml
