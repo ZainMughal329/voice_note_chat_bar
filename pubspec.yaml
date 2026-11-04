@@ -1,0 +1,25 @@
+name: voice_note_chat_bar
+description: A customizable chat composer with hold-to-record voice notes, text send, and optional attachment.
+version: 0.1.2
+homepage: https://github.com/example/voice_note_chat_bar
+repository: https://github.com/example/voice_note_chat_bar
+
+environment:
+  sdk: ^3.10.0
+  flutter: ">=3.16.0"
+
+dependencies:
+  cross_file: ^0.3.4+2
+  flutter:
+    sdk: flutter
+  path: ^1.9.1
+  path_provider: ^2.1.5
+  permission_handler: ^12.0.1
+  record: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
