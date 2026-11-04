@@ -1,3 +1,7 @@
+## 0.1.3
+
+- Added Demo Gif in the Readme File.
+
 ## 0.1.2
 
 - Fix recording bar overlap: waveform scales to available width; cancel hint uses a reserved width column.
